@@ -4,7 +4,7 @@
 using namespace std;
 int main() 
 {
-    Game game(1000,800, 60, "Title");
+    Game game(1000,300, 60, "Title");
     while (!WindowShouldClose())
     {
         cout << "Hola" << endl;
